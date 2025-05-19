@@ -42,7 +42,7 @@
 
 ---
 
-## 📂 Proje Yapısı
+## Proje Yapısı
 
 DataCleaningAndTokenization 
 
@@ -55,7 +55,7 @@ final_out_GAN
 model_train_robertaw 
 ---
 
-## 🧪 Kurulum (Kaggle veya Colab)
+## Kurulum (Kaggle veya Colab)
 
 1. Python 3.10+ ve aşağıdaki kütüphaneleri yükleyin:
 
@@ -66,7 +66,8 @@ HuggingFace erişim anahtarınızı tanımlayın:
 
 from huggingface_hub import login
 login("your_hf_token")
-🔍 Kullanım
+
+## *Kullanım*
 Ses dosyasını yükle (.wav)
 
 transcribe_chunks.py dosyasını çalıştır → 30 saniyelik parçalara ayırır ve metne çevirir.
@@ -74,6 +75,8 @@ transcribe_chunks.py dosyasını çalıştır → 30 saniyelik parçalara ayır�
 analyze_emotions.py ile her parçanın duygularını analiz eder.
 
 Uygulama, her cümle kombinasyonu için anlık öneriler üretir.
+```
+
 
 Uygulama Senaryosu
 Rehber öğretmen, danışman öğrencisiyle sesli görüşme yapıyor. Sistem, öğrencinin ifadelerini analiz ederek öğretmene şu öneriyi sunuyor:
