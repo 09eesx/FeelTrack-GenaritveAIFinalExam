@@ -75,15 +75,15 @@ analyze_emotions.py ile her parçanın duygularını analiz eder.
 
 Uygulama, her cümle kombinasyonu için anlık öneriler üretir.
 
- Uygulama Senaryosu
- Rehber öğretmen, danışman öğrencisiyle sesli görüşme yapıyor. Sistem, öğrencinin ifadelerini analiz ederek öğretmene şu öneriyi sunuyor:
+Uygulama Senaryosu
+Rehber öğretmen, danışman öğrencisiyle sesli görüşme yapıyor. Sistem, öğrencinin ifadelerini analiz ederek öğretmene şu öneriyi sunuyor:
 
 "Danışanınız şu anda anksiyete ve çaresizlik belirtileri gösteriyor. 'Yalnız değilsin, buradayım' gibi cümlelerle destekleyici olun."
 
- Geliştirme Aşamasında Planlananlar
- Konuşmacı ayrımı
- Duygu kombinasyon önerileri
- Grafiksel duygu değişim zaman çizgisi
- Geri bildirimli öğrenme (Q-learning veya Reinforcement)
- GUI / web panel
+Geliştirme Aşamasında Planlananlar
+Konuşmacı ayrımı
+Duygu kombinasyon önerileri
+Grafiksel duygu değişim zaman çizgisi
+Geri bildirimli öğrenme (Q-learning veya Reinforcement)
+GUI / web panel
 
