@@ -67,6 +67,8 @@ HuggingFace erişim anahtarınızı tanımlayın:
 from huggingface_hub import login
 login("your_hf_token")
 
+```
+
 ## *Kullanım*
 Ses dosyasını yükle (.wav)
 
@@ -75,7 +77,7 @@ transcribe_chunks.py dosyasını çalıştır → 30 saniyelik parçalara ayır�
 analyze_emotions.py ile her parçanın duygularını analiz eder.
 
 Uygulama, her cümle kombinasyonu için anlık öneriler üretir.
-```
+
 
 
 Uygulama Senaryosu
